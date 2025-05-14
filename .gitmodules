@@ -1,0 +1,3 @@
+[submodule "hello_foundry"]
+	path = hello_foundry
+	url = git@github.com:praneethgs36/hello_foundry.git
